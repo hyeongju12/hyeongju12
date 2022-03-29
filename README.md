@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🐣
 
+🖥️
 <img src="https://img.shields.io/badge/python-0033FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-0033FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-0033FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-0033FF?style=flat-square&logo=python&logoColor=white"/>
+
+🛠️
