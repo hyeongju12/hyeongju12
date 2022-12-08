@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongju12&layout=compact)](https://github.com/hyeongju12/github-readme-stats)
 <br>
 
-🖥️ 사용언어
+🖥️ Tech List
 <br>
 <img src="https://img.shields.io/badge/python-0033FF?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-006600?style=flat-square&logo=django&logoColor=white"/>
