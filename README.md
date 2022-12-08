@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5-FF9900?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-0033CC?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-FFFF66?style=flat-square&logo=javascript&logoColor=white"/>
-
-🛠️
